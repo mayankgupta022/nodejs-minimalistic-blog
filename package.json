@@ -1,0 +1,8 @@
+{
+  "name" : "nodejs-mongodb-blog",
+  "version" : "1.0.0",
+  "description" : "A minimalistic blog using nodejs and mongodb",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
