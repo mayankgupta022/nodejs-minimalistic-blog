@@ -1,2 +1,2 @@
-# nodejs-mongodb-blog
-A minimalistic blog using nodejs and mongodb
+# nodejs-minimalistic-blog
+A minimalistic blog using nodejs
